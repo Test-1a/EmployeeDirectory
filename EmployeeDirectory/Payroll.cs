@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace EmployeeDirectory
 {
-    internal class Payroll
+    public class Payroll
     {
         //Private collection of employee objects
         //Only accessable from inside this class
